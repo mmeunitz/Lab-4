@@ -1,0 +1,55 @@
+@charset "UTF-8";
+/* CSS Document */
+/*start of first div*/
+.if{
+	background-color:#000000;
+	height:690px;
+	width:800px;
+}
+.if img{
+	height: 600px;
+	float: left;
+	margin-top:100px;
+}
+/*closest width I can get to make it look like picture*/
+.if p{
+	color: white;
+	text-size: 16px;
+	padding-top: 450px;
+	width: 190px;
+	float:left;
+}
+/*end of first div and start of second div*/
+.bottom{
+	background-color:white;
+}
+h1{
+	color: #DA584A;
+	
+}
+.bottom img{
+	background-color:black;
+	width: 150px;
+	margin-top:-30px;
+	margin-left:100px;
+	float:right;
+}
+.bottom h2{
+	text-size: 25px;
+	color:grey;
+	text-align:center;
+}
+.bottom p{
+	width:330px;
+}
+hr{
+	margin-top:-30px;
+}
+ul{
+	margin: 0px;
+	line-height: 20px;
+}
+.bottom h3{
+	margin:16px;
+}
+/*end of second div*/
